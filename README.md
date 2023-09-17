@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jennifer Rogel! 👋
+
+- :hourglass_flowing_sand: I'm learning about Web Programming Technologies.
+- :notes: I like listening to music and playing instruments.
+- :video_game: I'm currently playing Monster Hunter Rise.
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 <!--
 **jenniferrogelg/jenniferrogelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
