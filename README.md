@@ -2,7 +2,6 @@
 
 - :hourglass_flowing_sand: I'm learning about Web Programming Technologies.
 - :notes: I like listening to music and playing instruments.
-- :video_game: I'm currently playing Monster Hunter Rise.
 
 ## 🛠 &nbsp;Tech Stack
 
